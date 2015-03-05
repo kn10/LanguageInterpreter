@@ -1,0 +1,5 @@
+LET A 3
+IF A > 4 THEN 4
+PRINT A
+PRINT B
+.
